@@ -1,7 +1,7 @@
 ### About me
 Welcome to my GitHub profile! I'm a passionate data engineer with expertise in designing and implementing scalable data solutions. With a strong background in data modeling, ETL development, and data warehouse architecture, I strive to leverage data engineering techniques to enable organizations to make data-driven decisions. This repository showcases some of my notable projects and contributions related to data engineering. Feel free to explore and collaborate!
 
-### Skills
+### :hammer_and_wrench: Skills
 1. Data modeling and database design: Relational and NoSQL databases
 1. ETL development and data integration
 1. Big data technologies: Hadoop, Spark, Kafka
