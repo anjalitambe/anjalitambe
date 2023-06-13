@@ -1,4 +1,4 @@
-### About me
+### :zap: About me
 Welcome to my GitHub profile! I'm a passionate data engineer with expertise in designing and implementing scalable data solutions. With a strong background in data modeling, ETL development, and data warehouse architecture, I strive to leverage data engineering techniques to enable organizations to make data-driven decisions. This repository showcases some of my notable projects and contributions related to data engineering. Feel free to explore and collaborate!
 
 ### :hammer_and_wrench: Skills
@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate data engineer with expertise in d
 1. Visualization: Power BI, Tableau, D3.js 
 1. Version control: GitHub, Azure DevOps
 
-### Contact
+### :mailbox: Contact
 Thank you for visiting my GitHub profile! If you're interested in collaborating or discussing potential projects, feel free to reach out to me:
 
 Email: atambe@cmu.alumni.edu
@@ -20,5 +20,9 @@ Email: atambe@cmu.alumni.edu
 LinkedIn: https://www.linkedin.com/in/anjalitambe/
 
 
+
 ### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjalitambe&layout=compact&theme=vision-friendly-dark)](https://github.com/anjalitambe/github-readme-stats)
