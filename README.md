@@ -17,4 +17,4 @@ Thank you for visiting my GitHub profile! If you're interested in collaborating 
 
 Email: atambe@cmu.alumni.edu
 \
-LinkedIn: [Anjali Tambe](https://www.linkedin.com/in/anjalitambe/)
+LinkedIn: https://www.linkedin.com/in/anjalitambe/
