@@ -18,3 +18,7 @@ Thank you for visiting my GitHub profile! If you're interested in collaborating 
 Email: atambe@cmu.alumni.edu
 \
 LinkedIn: https://www.linkedin.com/in/anjalitambe/
+
+
+### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjalitambe&layout=compact&theme=vision-friendly-dark)](https://github.com/anjalitambe/github-readme-stats)
