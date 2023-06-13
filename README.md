@@ -23,6 +23,6 @@ LinkedIn: https://www.linkedin.com/in/anjalitambe/
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+### Compact Language Card Layout
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjalitambe&layout=compact&theme=vision-friendly-dark)](https://github.com/anjalitambe/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjalitambe&layout=compact)
