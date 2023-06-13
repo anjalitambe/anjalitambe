@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate data engineer with expertise in d
 1. Visualization: Power BI, Tableau, D3.js 
 1. Version control: GitHub, Azure DevOps
 
-### :mailbox: Contact
+### :Gmail: Contact
 Thank you for visiting my GitHub profile! If you're interested in collaborating or discussing potential projects, feel free to reach out to me:
 
 Email: atambe@cmu.alumni.edu
