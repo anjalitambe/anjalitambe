@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate data engineer with expertise in d
 1. Visualization: Power BI, Tableau, D3.js 
 1. Version control: GitHub, Azure DevOps
 
-### :Gmail: Contact
+### :envelope_with_arrow: Contact
 Thank you for visiting my GitHub profile! If you're interested in collaborating or discussing potential projects, feel free to reach out to me:
 
 Email: atambe@cmu.alumni.edu
@@ -21,5 +21,5 @@ LinkedIn: https://www.linkedin.com/in/anjalitambe/
 
 
 
-### :fire: Top Languages :
+### :octocat: Top Languages :
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjalitambe)
