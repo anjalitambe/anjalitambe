@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate data engineer with expertise in d
 1. ETL development and data integration
 1. Big data technologies: Hadoop, Spark, Kafka
 1. Cloud platforms: AWS, GCP, Azure
-1. Data warehousing and data lake architecture
+1. Data warehousing and data lake architecture: ADLS, Azure Synapse
 1. Containerization: Docker, Kubernetes
 1. Workflow management: Airflow, Luigi
 1. Visualization: Power BI, Tableau, D3.js 
