@@ -21,8 +21,6 @@ LinkedIn: https://www.linkedin.com/in/anjalitambe/
 
 
 
-### :fire: My Stats :
-
-### Compact Language Card Layout
-
+### :fire: Top Languages :
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjalitambe)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjalitambe&layout=compact)
